@@ -1,1 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T09:08:14.179Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" version="13.6.2" etag="CXRrJMLZ9HqaJfJwPqDq" type="github"><diagram id="hJyaM5Z6LoSfCaXxb48E">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-11T09:20:35.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="EsFu2UnBB3egDjTanzoW" version="13.6.2" type="github">
+  <diagram id="hJyaM5Z6LoSfCaXxb48E" name="Page-1">
+    <mxGraphModel dx="606" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MG24ymrb_Bj48GplrtSU-1" value="Google Map &amp;nbsp;API" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="340" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-2" value="Google Map direction API" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-3" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MG24ymrb_Bj48GplrtSU-2">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="310" y="151" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="145" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-6" value="" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="371" y="156" as="sourcePoint" />
+            <mxPoint x="470" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-7" value="Point de vente le plus proche" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-8" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MG24ymrb_Bj48GplrtSU-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-9" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;" vertex="1" parent="1">
+          <mxGeometry x="470" y="146" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="480" y="152" width="80" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="310" y="186" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-13" value="" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="371" y="193.5" as="sourcePoint" />
+            <mxPoint x="470" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-14" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="480" y="266" width="80" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-16" value="Temps de livraison" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MG24ymrb_Bj48GplrtSU-16">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-18" value="Résultat des directions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-19" value="Temps de trajet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-20" value="MySQL database" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-21" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MG24ymrb_Bj48GplrtSU-20">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="315" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="226" y="336" width="8" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-25" value="" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="229.5" y="315" as="sourcePoint" />
+            <mxPoint x="230" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-26" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-27" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="226" y="200" width="8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MG24ymrb_Bj48GplrtSU-28" value="Adresses de livraison" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
